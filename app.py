@@ -12,7 +12,7 @@ property_type_options = joblib.load("property_type_options.joblib")
 st.title("Sydney Housing Price Predictor")
 st.write(
     "Estimate a sale price for a property in Mosman, Parramatta, or Campbelltown, "
-    "based on a Decision Tree model trained on 104 real sold properties (83 used "
+    "based on a Decision Tree model trained on 104 reported sold listings (83 used "
     "for training after the 80:20 train/test split). "
     "Model, columns, and category options are loaded from model.joblib, "
     "model_columns.joblib, suburb_options.joblib, and property_type_options.joblib, "
@@ -22,7 +22,8 @@ st.write(
 st.warning(
     "This is a point estimate, not a valuation. It is least reliable for Mosman "
     "properties and for any combination of features uncommon in the training data "
-    "(only 104 properties total, 24-30 per suburb in training)."
+    "(only 104 properties collected: 21 Mosman, 28 Parramatta, and 34 Campbelltown properties "
+    "in the training split)."
 )
 
 st.header("Property details")
@@ -46,7 +47,7 @@ with col2:
         index=0,
     )
     if land_size_known == "Known":
-        land_size = st.number_input("Land size (sqm)", min_value=50, max_value=1300, value=300,
+        land_size = st.number_input("Land size (sqm)", min_value=74, max_value=1233, value=300,
                                      help="Training data range where recorded: 74-1233 sqm")
     else:
         land_size = 0
