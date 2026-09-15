@@ -1,0 +1,105 @@
+address,suburb,price,sale_date,beds,baths,parking,land_size_sqm,property_type
+"35/17 Warby Street, Campbelltown",Campbelltown,515000,2026-08-26,2,1,1,,Apartment
+"66/17 Warby Street, Campbelltown",Campbelltown,522000,2026-08-26,2,1,1,,Apartment
+"8/30 Broughton Street, Campbelltown",Campbelltown,637595,2026-08-24,2,1,1,,Townhouse
+"5/32 Broughton St, Campbelltown",Campbelltown,620000,2026-08-17,3,1,1,,House
+"11/39 Chamberlain Street, Campbelltown",Campbelltown,610000,2026-08-14,2,2,1,,Apartment
+"16 Austin Avenue, Campbelltown",Campbelltown,980000,2026-08-11,4,3,1,670,House
+"12 Valinda Crescent, Campbelltown",Campbelltown,950000,2026-08-10,3,1,1,645,House
+"309/38-42 Chamberlain Street, Campbelltown",Campbelltown,570000,2026-08-07,2,2,1,,Apartment
+"34/12-20 Tyler Street, Campbelltown",Campbelltown,715000,2026-08-04,3,2,2,,Apartment
+"65/18-22 Broughton Street, Campbelltown",Campbelltown,650000,2026-08-04,2,2,1,,Apartment
+"10/1-3 Parc Guell Drive, Campbelltown",Campbelltown,817500,2026-07-29,3,2,1,,Apartment
+"46 and 46a Farnsworth Avenue, Campbelltown",Campbelltown,1185000,2026-07-27,5,2,2,734,House
+"6/105 Broughton Street, Campbelltown",Campbelltown,575000,2026-07-24,3,1,1,,House
+"88 Goldsmith Avenue, Campbelltown",Campbelltown,890000,2026-07-24,3,2,1,177,Semi-detached
+"2/19 Chamberlain Street, Campbelltown",Campbelltown,363000,2026-07-23,2,1,1,1233,Apartment
+"40 Waminda Avenue, Campbelltown",Campbelltown,930000,2026-07-22,4,1,1,554,House
+"63/39 Chamberlain Street, Campbelltown",Campbelltown,533000,2026-06-04,1,1,1,,Apartment
+"14/3-9 Warby Street, Campbelltown",Campbelltown,490000,2026-05-13,1,1,1,,Apartment
+"6/17 Warby Street, Campbelltown",Campbelltown,475000,2025-07-15,1,1,1,,Apartment
+"57/26 Tyler Street, Campbelltown",Campbelltown,600000,2026-03-13,2,2,1,,Apartment
+"4 Grandview Drive, Campbelltown",Campbelltown,860000,2024-02-06,4,1,0,,House
+"7 Mereil Street, Campbelltown",Campbelltown,803000,2023-11-20,4,1,2,714,House
+"27 Megalong Crescent, Campbelltown",Campbelltown,952000,2023-11-18,4,2,2,683,House
+"10 Carcoola Street, Campbelltown",Campbelltown,855000,2023-10-31,4,2,2,562,House
+"1 Colo Place, Campbelltown",Campbelltown,875000,2023-10-25,4,2,1,689,House
+"7/93 Broughton Street, Campbelltown",Campbelltown,615000,2025-01-06,2,2,1,146,Townhouse
+"4/93 Broughton Street, Campbelltown",Campbelltown,620000,2024-11-04,2,2,1,,Townhouse
+"6/93 Broughton Street, Campbelltown",Campbelltown,640000,2024-11-04,3,2,1,,Townhouse
+"13/10-18 Allman Street, Campbelltown",Campbelltown,555000,2024-11-04,2,1,1,,Townhouse
+"4/55 Sturt Street, Campbelltown",Campbelltown,595500,2024-11-01,2,2,1,,Townhouse
+"2/51 George Street, Campbelltown",Campbelltown,565000,2024-07-04,2,2,1,,Townhouse
+"1/19 Stewart Street, Campbelltown",Campbelltown,542000,2024-06-24,2,1,1,200,Townhouse
+"3/142 Lindesay Street, Campbelltown",Campbelltown,790000,2024-04-23,3,2,1,,Townhouse
+"15/10-18 Allman Street, Campbelltown",Campbelltown,580000,2024-02-06,3,1,1,,Townhouse
+"3/77-79 Broughton Street, Campbelltown",Campbelltown,485000,2023-12-07,2,1,1,,Townhouse
+"6 Hume Street, Campbelltown (2023)",Campbelltown,1070000,2023-12-07,6,4,2,360,Semi-detached
+"6 Hume Street, Campbelltown (2023b)",Campbelltown,1045000,2023-06-05,6,4,1,,Semi-detached
+"40/18-22 Broughton Street, Campbelltown",Campbelltown,650000,2026-04-14,2,2,2,,Apartment
+"1/28-30 Broughton Street, Parramatta",Parramatta,1068000,2026-06-01,3,2,1,,Townhouse
+"8/3-5 Irving Street, Parramatta",Parramatta,1190000,2026-03-09,3,2,2,145,Townhouse
+"10/43 Pemberton Street, Parramatta",Parramatta,1101500,2026-01-31,3,2,2,,Townhouse
+"5/5 Thomas Street, Parramatta",Parramatta,530000,2026-08-12,2,1,1,,Apartment
+"2/1-7 Bobart Street, Parramatta",Parramatta,780000,2026-08-12,2,1,1,,Apartment
+"1113C/3 Broughton Street, Parramatta",Parramatta,700000,2026-02-03,2,2,1,,Apartment
+"61008/1A Morton Street, Parramatta",Parramatta,577000,2026-01-30,1,1,1,,Apartment
+"102/6-10 Charles Street, Parramatta",Parramatta,650000,2026-01-23,3,2,1,,Apartment
+"2/20-22 Glebe Street, Parramatta",Parramatta,769000,2026-01-23,3,2,1,,Apartment
+"1605A/8 Cowper Street, Parramatta",Parramatta,1307000,2023-02-24,3,2,2,,Penthouse
+"37/1 Sorrell Street, Parramatta",Parramatta,1100000,2021-10-13,3,3,2,,Penthouse
+"2/16 Betts Street, Parramatta",Parramatta,660000,2026-09-12,2,1,1,,Apartment
+"1404/1-3 Valentine Avenue, Parramatta",Parramatta,320000,2026-09-11,1,1,0,,Apartment
+"15/12 Early Street, Parramatta",Parramatta,493000,2026-09-11,2,1,1,,Apartment
+"33/68 Great Western Highway, Parramatta",Parramatta,520000,2026-09-11,2,1,1,,Apartment
+"505/23 Hassall Street, Parramatta",Parramatta,660000,2026-09-09,2,2,1,,Apartment
+"89/459-463 Church Street, Parramatta",Parramatta,580000,2026-09-04,2,2,1,,Apartment
+"8/64-66 Great Western Highway, Parramatta",Parramatta,425000,2026-09-04,1,1,1,,Apartment
+"1702/45 Macquarie Street, Parramatta",Parramatta,705000,2026-09-04,2,2,1,,Apartment
+"10/4 Peace Lane, Parramatta",Parramatta,570000,2026-09-03,2,2,1,108,Apartment
+"9/178 George Street, Parramatta",Parramatta,490000,2026-09-01,1,1,0,,Apartment
+"138 Railway St, Parramatta",Parramatta,685000,2026-08-14,2,1,1,,Townhouse
+"1/77-79 Thomas Street, Parramatta",Parramatta,1300000,2026-06-21,4,2,2,284,Townhouse
+"4/6 Morton Street, Parramatta",Parramatta,1200000,2026-05-10,4,2,2,,Townhouse
+"3/11-15 King Street, Parramatta",Parramatta,942000,2026-01-31,3,1,1,,Townhouse
+"2/25-29 O'Connell Street, Parramatta",Parramatta,851000,2026-01-30,2,1,1,,Townhouse
+"6/28 Broughton Street, Parramatta",Parramatta,1000000,2026-01-15,3,2,1,,Townhouse
+"6/3-5 Irving Street, Parramatta",Parramatta,1250000,2025-12-11,3,2,2,,Townhouse
+"5/145-147 Pennant Street, Parramatta",Parramatta,1125000,2025-11-28,3,2,1,,Townhouse
+"5/2 Glebe Street, Parramatta",Parramatta,920000,2025-11-15,3,1,1,,Townhouse
+"22/1 Rangihou Cres, Parramatta",Parramatta,1250000,2025-11-05,3,2,2,335,Townhouse
+"16/43 Pemberton Street, Parramatta",Parramatta,1225000,2025-10-23,3,2,2,,Townhouse
+"3/4-6 Broughton Street, Parramatta",Parramatta,1250000,2025-10-13,3,2,2,,Townhouse
+"6/19 King Street, Parramatta",Parramatta,775000,2025-10-11,2,1,1,129,Townhouse
+"3/46-48 Morton Street, Parramatta",Parramatta,1350000,2025-09-23,4,2,2,,Townhouse
+"11/9-11 New Zealand Street, Parramatta",Parramatta,1070000,2025-09-18,3,1,2,,Townhouse
+"19 Clanalpine Street, Mosman",Mosman,7100000,2025-03-15,3,1,0,752,House
+"7 Ryrie Street, Mosman",Mosman,4000000,2025-02-05,3,2,1,641,House
+"55 Holt Avenue, Mosman",Mosman,4810000,2024-11-23,3,1,1,455,House
+"76 Ourimbah Road, Mosman",Mosman,3400000,2024-11-22,3,2,2,569,House
+"98 Holt Avenue, Mosman",Mosman,2910000,2023-10-18,3,1,0,231,House
+"1/17-19 Lang Street, Mosman",Mosman,2430000,2023-10-09,3,2,2,,House
+"23 Holt Avenue, Mosman",Mosman,4275000,2023-09-07,3,2,1,345,House
+"24 Rangers Avenue, Mosman",Mosman,2880000,2023-08-30,3,3,1,227,House
+"105 Shadforth Street, Mosman",Mosman,2950000,2023-08-29,3,1,0,,Semi-detached
+"43 Rosebery Street, Mosman",Mosman,4353500,2023-08-17,3,3,2,465,House
+"52A Parriwi Road, Mosman",Mosman,12500000,2023-08-10,3,4,8,505,House
+"17A Countess Street, Mosman",Mosman,3455000,2023-07-08,3,2,1,,House
+"1/30 Hale Road, Mosman",Mosman,2180000,2026-06-05,3,2,2,,Townhouse
+"10/116 Belmont Road, Mosman",Mosman,2380000,2026-06-05,3,2,2,192,Townhouse
+"6/800 Military Road, Mosman",Mosman,2725000,2026-05-29,3,2,2,,Townhouse
+"3/13 McLeod Street, Mosman",Mosman,2080000,2026-05-15,3,2,2,,Townhouse
+"4/19-21 Countess Street, Mosman",Mosman,3000000,2026-04-22,3,3,2,,Townhouse
+"3/12 Earl Street, Mosman",Mosman,2900000,2026-03-21,3,2,2,,Townhouse
+"5/100 Ourimbah Road, Mosman",Mosman,2610000,2025-09-26,3,2,2,,Townhouse
+"1/110 Prince Albert Street, Mosman",Mosman,4230000,2025-05-16,3,2,3,,Townhouse
+"2/84 Muston Street, Mosman",Mosman,5580000,2025-05-31,3,2,2,,Apartment
+"4/55A Prince Albert Street, Mosman",Mosman,5300000,2025-05-24,3,2,2,,Apartment
+"93 Holt Avenue, Mosman",Mosman,3075000,2024-11-02,3,1,0,230,Semi-detached
+"1 Earl Street, Mosman",Mosman,3600000,2024-07-12,3,2,1,,Semi-detached
+"49 Raglan Street, Mosman",Mosman,6300000,2025-10-01,3,2,1,,House
+"4/18 Parriwi Road, Mosman",Mosman,3000000,2018-06-12,3,2,2,,Penthouse
+"2/195 Spit Road, Mosman",Mosman,2950000,2017-12-11,3,2,2,,Penthouse
+"3/17 Milner Street, Mosman",Mosman,790000,2026-08-21,1,1,0,,Apartment
+"111/116 Belmont Road, Mosman",Mosman,930000,2026-08-19,1,1,1,74,Apartment
+"45 Myahgah Road, Mosman",Mosman,3660000,2024-07-03,3,2,1,,Semi-detached
